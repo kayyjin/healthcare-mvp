@@ -36,12 +36,12 @@ All information is sourced from Canadian public health authorities (e.g., **Nova
 
 “If someone at home has the flu, what should I do to avoid getting sick?”
 
-##Disclaimer
+## Disclaimer
 This chatbot does not provide medical advice, and cannot diagnose or treat any health conditions.
 It is intended for public education purposes only.
 For personal medical questions, users should contact a healthcare provider or call 811 in Nova Scotia.
 In emergencies, call 911.
 
-##Author
+## Author
 Xishan Jin
 Date: July 18th, 2025
