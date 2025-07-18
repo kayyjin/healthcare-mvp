@@ -22,13 +22,13 @@ All information is sourced from Canadian public health authorities (e.g., **Nova
 1. **Start Ollama** and load a supported model:
    ```bash
    ollama run mistral
-2. Launch AnythingLLM desktop application 
+2. Launch the AnythingLLM desktop application 
 
-3.Create a workspace (e.g., “Flu Chatbot”)
+3. Create a workspace (e.g., “Flu Chatbot”)
 
 4. Upload documents from /knowledge_base/ and ingest them
 
-5. Configure system prompt using SystemPrompt.txt
+5. Configure the system prompt using SystemPrompt.txt
 
 6. Ask scenario questions such as:
 
@@ -44,4 +44,4 @@ In emergencies, call 911.
 
 ##Author
 Xishan Jin
-Date: July 18th 2025
+Date: July 18th, 2025
