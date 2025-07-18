@@ -1,4 +1,3 @@
-# healthcare-mvp
 # Seasonal Flu Chatbot
 
 ## Project Overview
