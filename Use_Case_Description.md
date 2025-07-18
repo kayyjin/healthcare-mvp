@@ -1,5 +1,5 @@
 ## Target Users
-Residents of Nova Scotia seeking clear, trustworthy information about seasonal flu prevention. This includes:
+For residents of Nova Scotia who are seeking clear, trustworthy information about seasonal flu prevention. This includes:
 - Parents and caregivers
 - Seniors and high-risk individuals
 - General public with limited time or access to reliable public health messaging
